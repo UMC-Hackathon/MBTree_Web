@@ -32,9 +32,7 @@ nav {
   left: 0;
   top: 0;
   height: 80px;
-  background-color: white;
   width: 100vw;
-  border-bottom: 1px solid rgb(226, 223, 223);
 }
 
 .nav-icon {
@@ -60,7 +58,7 @@ nav {
 }
 
 .nav-right .nav-btn {
-  margin-right: 8px;
+  margin-right: 7px;
 }
 
 .img {
@@ -68,12 +66,12 @@ nav {
   height: 30px;
 }
 
-.tree-right {
+.back {
   display: flex;
   justify-content: space-between;
-  padding: 200px 0px;
+  padding: 10px 0px;
   width: 100vw;
-  height: 100vh;
+  height: 90vh;
 }
 
 .logo {
@@ -82,5 +80,15 @@ nav {
 }
 
 .nav-btn1 {
-  padding: 18px 5px;
+  padding: 22px 10px 10px;
+}
+
+.tree{
+  height:530px;
+  width: 300px;
+}
+
+.note{
+  height:50px;
+  width: 50px;
 }
